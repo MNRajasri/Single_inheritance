@@ -1,4 +1,6 @@
 """
+SINGLE INHERITANCE
+
 Inheritance in Python's Object-Oriented Programming (OOP) allows one class to inherit the attributes and methods of another class. This helps in reusing code and creating a hierarchical relationship between classes.
 
 Key Concepts of Inheritance
